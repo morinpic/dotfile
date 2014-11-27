@@ -18,3 +18,12 @@ brew doctor
 ```
 brew bundle
 ```
+
+## etc
+[Modarn.IE](http://stocker.jp/diary/modern_ie/)
+[DMesh](http://dmesh.thedofl.com/)
+
+
+
+**After Effects プラグイン**
+[Trapcode Mir](http://www.flashbackj.com/trapcode/mir/)

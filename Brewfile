@@ -14,9 +14,8 @@ install wget
 install zsh
 
 # homebrew-caskのインストール
-tap homebrew/versions
-tap phinze/homebrew-cask
-install brew-cask
+install caskroom/cask/brew-cask
+tap caskroom/versions
 
 # インストール
 cask install appcleaner
