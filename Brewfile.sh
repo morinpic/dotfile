@@ -10,6 +10,7 @@ brew install git
 brew install heroku-toolbelt
 brew install nodebrew
 brew install rbenv
+brew install ruby-build
 brew install tree
 brew install wget
 brew install zsh
@@ -40,3 +41,20 @@ brew cask install vagrant
 
 # 不要なファイルを削除
 brew cleanup
+
+# rbenvの設定
+# bash
+# echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
+# echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+# source ~/.bash_profile
+# zsh
+# echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
+# echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+# source ~/.zshrc
+
+# nodebrewの設定
+# echo 'export PATH="$HOME/.nodebrew/current/bin:$PATH"' >> ~/.bash_profile
+# echo 'export PATH="$HOME/.nodebrew/current/bin:$PATH"' >> ~/.zshrc
+
+# 隠しファイルの表示
+# defaults write com.apple.finder AppleShowAllFiles TRUE
