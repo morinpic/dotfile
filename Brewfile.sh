@@ -31,6 +31,7 @@ brew cask install imagealpha
 brew cask install imageoptim
 brew cask install iterm2
 brew cask install kobito
+brew cask install licecap
 brew cask install skype
 brew cask install slack
 brew cask install sublime-text
