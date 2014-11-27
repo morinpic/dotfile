@@ -5,12 +5,12 @@
 
 **install Xcode's command line tools**
 ```
-xcode-select —install
+xcode-select -—install
 ```
 
 **install homebrew**
 ```
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew doctor
 ```
 
