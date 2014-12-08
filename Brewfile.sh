@@ -58,3 +58,6 @@ brew cleanup
 
 # 隠しファイルの表示
 # defaults write com.apple.finder AppleShowAllFiles TRUE
+
+# sublime textをコマンドラインで使用する設定
+sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/bin/subl
