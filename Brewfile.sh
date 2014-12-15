@@ -21,6 +21,7 @@ brew tap caskroom/versions
 
 # インストール
 brew cask install appcleaner
+brew cask install bee
 brew cask install dropbox
 brew cask install evernote
 brew cask install google-chrome
