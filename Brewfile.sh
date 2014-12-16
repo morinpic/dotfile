@@ -24,6 +24,7 @@ brew cask install appcleaner
 brew cask install bee
 brew cask install dropbox
 brew cask install evernote
+brew cask install gyazo
 brew cask install google-chrome
 brew cask install google-drive
 brew cask install google-japanese-ime
