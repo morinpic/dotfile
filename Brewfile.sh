@@ -23,6 +23,7 @@ brew tap caskroom/versions
 brew cask install appcleaner
 brew cask install atom
 brew cask install bee
+brew cask install bettertouchtool
 brew cask install dropbox
 brew cask install evernote
 brew cask install gyazo
