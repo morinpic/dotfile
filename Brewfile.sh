@@ -6,8 +6,10 @@ brew update
 brew upgrade
 
 # パッケージのインストール
+brew install awscli
 brew install git
 brew install heroku-toolbelt
+brew install hub
 brew install nodebrew
 brew install rbenv
 brew install ruby-build
@@ -45,6 +47,7 @@ brew cask install vagrant
 
 # 不要なファイルを削除
 brew cleanup
+brew cask cleanup
 
 # rbenvの設定
 # bash
