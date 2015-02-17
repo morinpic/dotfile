@@ -6,6 +6,7 @@ brew update
 brew upgrade
 
 # パッケージのインストール
+brew install ansible
 brew install awscli
 brew install git
 brew install heroku-toolbelt
