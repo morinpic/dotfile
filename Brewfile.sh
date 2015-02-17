@@ -33,6 +33,7 @@ brew cask install google-chrome
 brew cask install google-drive
 brew cask install google-japanese-ime
 brew cask install handbrake
+brew cask install hoster
 brew cask install image-tool
 brew cask install imagealpha
 brew cask install imageoptim
