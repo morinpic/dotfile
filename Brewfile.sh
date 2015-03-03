@@ -8,6 +8,7 @@ brew upgrade
 # パッケージのインストール
 brew install ansible
 brew install awscli
+brew install go
 brew install git
 brew install heroku-toolbelt
 brew install hub
@@ -23,12 +24,14 @@ brew install caskroom/cask/brew-cask
 brew tap caskroom/versions
 
 # インストール
+brew cask install android-studio
 brew cask install appcleaner
 brew cask install atom
 brew cask install bee
 brew cask install bettertouchtool
 brew cask install dropbox
 brew cask install evernote
+brew cask install genymotion
 brew cask install gyazo
 brew cask install google-chrome
 brew cask install google-drive
